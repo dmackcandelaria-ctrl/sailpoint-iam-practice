@@ -1,0 +1,5 @@
+Employee ID,Name,Department,Status,Action in SailPoint,Birthright Access
+1001,Juan Dela Cruz,Finance,Active,Joiner,SAP Finance
+1002,Pedro Santos,IT,Terminated,Leaver - Revoke All,NONE - Revoked
+1003,Ana Reyes,HR,Active,Joiner,Workday HR
+1004,Maria Santos,IT,Active,Mover - Finance to IT,AD IT + VPN
